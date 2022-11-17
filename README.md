@@ -21,16 +21,9 @@ RANDOM FB ID, File Cloning ,
 
 <!DOCTYPE html>
 <html>
-<head>
-<body>
-   <img src="https://64.media.tumblr.com/bcccf85951ad6ae5ec464f262e32781f/7653f28cae22ed4d-87/s540x810/8c766f25c60d7dfbeab2179ea3754d57116b5c7b.jpg" />
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
 </head>
-<body> href="https://www.mediafire.com/download/5lwa3n6twhr8ncl" target="_blank"> 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝  </a>
+<body>
+<P>      ~• Created by:- <a href="https://m.me/white.hat.hacker.Rihan" target="_blank"> 𝐑𝐢𝐡𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 🔰 </a>
 </body>
 </html>
 
