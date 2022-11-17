@@ -43,7 +43,7 @@ cd BHHC-CL
 
 chmod +x *
 
-python2 Bhhc-CL.py
+python Bhhc-CL.py
 
 Done ✅😃 Thank you 💓
 
